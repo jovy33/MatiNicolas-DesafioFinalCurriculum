@@ -1,0 +1,74 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+#mbv {
+  background-image: url("../img/ingenieria.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+#info{
+  padding-top: 2em;
+}
+
+#int {
+  padding-top: 2em;
+   
+}
+
+.about-mf{
+  padding-top: 5em;
+  
+}
+#about{
+  box-shadow: rgba(0, 0, 0, 0.25) 1em 2em 3.5em -0.8em;
+}
+
+.about-mf .box-shadow-full {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.about-mf .about-img {
+  margin-bottom: 2rem;
+}
+.about-mf .about-img img {
+  margin-left: 10px;
+}
+@media (min-width: 767px) {
+  .about-mf .box-pl2 {
+    margin-top: 3rem;
+    padding-left: 0rem;
+  }
+}
+#skills {
+  padding-top: 2em;
+}
+#skills h2{
+  text-align: center;
+}
+#softskills {
+  padding-top: 2em;
+}
+#softskills h2{
+  text-align: center;
+}
+.skill-mf span {
+  color: #4e4e4e;
+}
+.skill-mf .progress {
+  background-color: #cde1f8;
+  margin: 0.5rem 0 1.2rem 0;
+  border-radius: 0;
+  height: 0.7rem;
+}
+.skill-mf .progress .progress-bar {
+  height: 0.7rem;
+  background-color: #0078ff;
+}
+
+footer i{
+  text-decoration: none;
+}
+
+
